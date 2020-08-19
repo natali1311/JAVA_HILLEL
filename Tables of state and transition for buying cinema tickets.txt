@@ -1,0 +1,5 @@
+
+                          Создать таблицу состояний и переходов для покупки билетов в кино
+
+Таблица состояний и переходов, ссылка на гугл таблицу:
+https://docs.google.com/spreadsheets/d/1MwLGvrgKvDxnFh18G4PsjcsfoqSoda429gZI9I3d_J8/edit?usp=sharing
