@@ -1,0 +1,6 @@
+https://www.getpostman.com/collections/fe0dd118da6821d994ec -  Тесты на Google API Place
+https://www.getpostman.com/collections/09b0c25b77dbf4c1b64b -  Тесты на Google API Details
+https://www.getpostman.com/collections/23159f307ac3c5305373 -  Тесты на Google API Photos
+
+
+ссылка на гугл док: https://docs.google.com/spreadsheets/d/1CR3jatbo4geATU_SC3psgX4vjHRLIkiU50QYmab_68k/edit?usp=sharing

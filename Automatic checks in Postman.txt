@@ -1,0 +1,7 @@
+                       
+                          Добавить проверки к коллекции тестов для Google Places API
+
+
+https://www.getpostman.com/collections/fe0dd118da6821d994ec - проверки на Google API Place
+https://www.getpostman.com/collections/09b0c25b77dbf4c1b64b - проверки на Google API Details
+https://www.getpostman.com/collections/23159f307ac3c5305373 - проверки на Google API Photos
